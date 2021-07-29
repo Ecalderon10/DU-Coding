@@ -1,6 +1,16 @@
  ## Edgar Calderons' Portfolio
  
  #Creating html and styling CSS to provide a Professional Portfolio 
+ 
+ 
+ <img width="1000" alt="Screen Shot 2021-07-29 at 10 59 04 AM" src="https://user-images.githubusercontent.com/87398458/127534024-a81341c6-6995-48e5-b1af-3abaf13706fc.png">
+
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 * I created a Html in order to provide a solid structure for my code and information i wanted to provide in my portfolio
