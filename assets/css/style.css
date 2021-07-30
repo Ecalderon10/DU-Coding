@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-  display: flex-start;
+  display: block;
   background-color: whitesmoke;
 }
 
@@ -41,17 +41,24 @@ footer {
   color: #fff;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  background-color: transparent;
-  grid-gap: 10px;
-  padding: 10px;
+.container {
+  display: block;
 }
 
 .large-box {
+  display: block;
   position: relative;
   text-align: center;
+  background-image: url(../images/jeremy-bishop-itYOt_CSv1s-unsplash.jpg);
+  padding: 45px;
+  height: auto;
+  border: 8px solid black;
+}
+
+.code-image {
+  image-rendering: url(..//images/codecode.jpeg);
+  width: 100%;
+  max-height: auto;
 }
 
 @media screen and (max-width: 768px) {
