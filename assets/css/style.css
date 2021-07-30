@@ -45,6 +45,10 @@ footer {
   display: block;
 }
 
+header img {
+  height: 200px;
+  width: 200px;
+}
 .large-box {
   display: block;
   position: relative;
