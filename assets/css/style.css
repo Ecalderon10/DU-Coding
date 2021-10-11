@@ -14,6 +14,8 @@ font-size: 15px;
 .About-Me{
 display:flex;
 align-items: flex-end;
+background-color: white;
+opacity: 0.8;
 }
 body {
   background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
@@ -88,6 +90,9 @@ background-color:whitesmoke;
 font-size: large;
 font-display: bold;
 font-size: 20px;
+}
+h3{
+color:white;
 }
 
 @media screen and (max-width: 768px) {
