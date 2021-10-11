@@ -1,11 +1,24 @@
 * {
   box-sizing: border-box;
 }
-
+.h1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+font-size: 15px;
+}
+.headShot{
+  display:flex;
+  align-items: flex-start;
+}
+.About-Me{
+display:flex;
+align-items: flex-end;
+}
 body {
-  background-image: url(../images/background\ -image.jpg);
+  background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-attachment: fixed;
-  background-size: cover;
+  background-size:cover;
   font-family: Arial;
   margin: 0;
 }
@@ -19,6 +32,7 @@ header {
 
 nav {
   display: block;
+  opacity: .7;
   background-color: whitesmoke;
 }
 
@@ -55,6 +69,7 @@ header img {
 }
 .large-box {
   display: block;
+  opacity:.7;
   text-align: center;
   background: #13293d;
   padding: 45px;
@@ -74,11 +89,6 @@ font-size: large;
 font-display: bold;
 font-size: 20px;
 }
- h3 {
-   font-size: 40px;
-   background-color: black;
-   
- }
 
 @media screen and (max-width: 768px) {
   main,
