@@ -3,7 +3,8 @@
  #Creating html and styling CSS to provide a Professional Portfolio 
  
  
- <img width="1000" alt="Screen Shot 2021-07-29 at 10 59 04 AM" src="https://user-images.githubusercontent.com/87398458/127534024-a81341c6-6995-48e5-b1af-3abaf13706fc.png">
+<img width="1293" alt="Screen Shot 2021-10-10 at 7 37 20 PM" src="https://user-images.githubusercontent.com/87398458/136721588-9baf51ae-a1ae-4c98-9157-dbe48e1c0351.png">
+
 
  
  
